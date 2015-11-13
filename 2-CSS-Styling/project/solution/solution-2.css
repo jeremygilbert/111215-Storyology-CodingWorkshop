@@ -1,0 +1,60 @@
+body {
+	font-family: Georgia,'Times News Roman',Times,serif;
+	font-size: 14pt;
+	line-height: 1.5em;
+	color: #ccc;
+	background: #999 url('../../../img/skyline.png') repeat-x bottom center;
+}
+header {
+	width: 100%;
+	border-bottom: 1px solid rgba(255,255,255,.25);
+}
+h1 {
+	color: #893283;
+	font-weight: normal;
+	font-size: 2.85em;
+}
+h1,h2,h3,h4,h5,h6,.explainer {
+   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+}
+a {
+	color: #fe9566;
+	font-weight: bold;
+}
+a:hover {
+	color: #ec555e;
+}
+a:visited {
+	color:black;
+}
+article {
+	background: gray;
+}
+article section.explainer {
+	background: rgba(81,16,46,.25);
+}
+ul li {
+	font-size: .85em;
+}
+ul li strong {
+	color: #ff745f;
+}
+blockquote em {
+	font-size: 12pt;
+	color: #ccc;
+}
+aside {
+	border-top: 1px white dotted;
+}
+h2 {
+	font-size: 24pt;
+	font-weight: normal;
+	color: #a62a42;
+}
+footer {
+	text-align: center;
+}
+footer h5 {
+	font-weight: normal;
+	font-size: 1.0125em;
+}
